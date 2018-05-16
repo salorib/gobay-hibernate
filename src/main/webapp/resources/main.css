@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24/04/2018, 12:53:14 PM
+    Author     : Argos
+*/
+
+h1{
+    color: orange;
+    font-family: sans-serif;
+}
+
+thead{
+    color: blue;
+    font-family: sans-serif;
+}
+
+tbody{
+    font-family: sans-serif;
+}
+
+#home{
+
+    background-image: url(../resources/images/home-icon-silhouette.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    height: 24px;
+}
+
+#cart{
+    
+    background-image: url(../resources/images/shopping-cart.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    height: 24px;
+}
+
+#navlinks{
+    width: 5%;
+    float: right;
+}
+
+#navhead{
+    width: 90%;
+    float: left;
+}
